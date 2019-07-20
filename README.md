@@ -11,7 +11,7 @@ Import the myblog.sql file, change the params in the config/Database.php file to
 ### Author
 
 Tiago Ramos
-(http://tiago-ramos.000webhostapp.com/)
+http://tiago-ramos.000webhostapp.com/
 
 ### Version
 
